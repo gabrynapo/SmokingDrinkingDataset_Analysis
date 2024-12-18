@@ -11,7 +11,7 @@ python -m venv nomeEnv
 ```
 
 ```
-./nomeEnv/pip install -r requirements.txt
+.\nomeEnv\Scripts\pip install -r requirements.txt
 ```
 
 Requirements.txt contains all the dependencies needed to run the script.
