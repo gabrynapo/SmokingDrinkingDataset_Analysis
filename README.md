@@ -1,4 +1,4 @@
-If you want to know, what this analysis is about, read "relazione_statistica.pdf"
+If you want to know what this analysis is about, read "relazione_statistica.pdf"
 
 Create a new environment
 
